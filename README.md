@@ -12,6 +12,13 @@ Want to see the magic in action? Click the link below to explore the live websit
 
 [Health Companion UX Case Study](https://gitexcited.github.io/soen357-health-companion-ux-casestudy/)
 
+## Contribute to Our Research! ✍️
+
+We'd love to hear your thoughts on the app! If you have a few minutes, please fill out our research form:
+
+[Share Your Feedback!](https://forms.gle/CranPbBjda89NUm59)
+
+
 ## What You'll Find Here 🕵️‍♀️
 
 *   **The Problem:** Understanding the challenges faced by individuals managing chronic conditions.
