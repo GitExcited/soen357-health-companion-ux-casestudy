@@ -18,13 +18,12 @@ We'd love to hear your thoughts on the app! If you have a few minutes, please fi
 
 [Share Your Feedback!](https://forms.gle/CranPbBjda89NUm59)
 
-
 ## What You'll Find Here 🕵️‍♀️
 
-*   **The Problem:** Understanding the challenges faced by individuals managing chronic conditions.
-*   **Our Solution:** How our app addresses these challenges with a user-friendly design.
-*   **UX Research:** Key findings and insights that shaped our design decisions.
-*   **Next Steps:** Where we're headed and how we plan to make the app even better!
+* **The Problem:** Understanding the challenges faced by individuals managing chronic conditions.
+* **Our Solution:** How our app addresses these challenges with a user-friendly design.
+* **UX Research:** Key findings and insights that shaped our design decisions.
+* **Next Steps:** Where we're headed and how we plan to make the app even better!
 
 ## Let's Connect! 🤝
 
