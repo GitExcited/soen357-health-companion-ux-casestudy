@@ -25,6 +25,26 @@ We'd love to hear your thoughts on the app! If you have a few minutes, please fi
 * **UX Research:** Key findings and insights that shaped our design decisions.
 * **Next Steps:** Where we're headed and how we plan to make the app even better!
 
+## Wireframes 📱
+
+Here's a sneak peek at the wireframes we designed for the app:
+
+### Main Page
+
+![Main Page Wireframe](images/wireframe_mainpage.png)
+
+### Calendar
+
+![Calendar Wireframe](images/wireframe_calendar.png)
+
+### Chat
+
+![Chat Wireframe](images/wireframe_chat.png)
+
+### Settings
+
+![Settings Wireframe](images/wireframe_settings.png)
+
 ## Let's Connect! 🤝
 
 Feel free to explore, share your thoughts, and get in touch if you have any questions or ideas. Let's build a healthier future together! 💖
