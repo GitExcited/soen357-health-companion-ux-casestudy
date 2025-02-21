@@ -185,3 +185,27 @@ body {
 .reflection-section {
   background-color: #ffffe0; /* Light yellow */
 }
+
+.user-journey-section {
+  background-color: #f0f5ff; /* Light blueish */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center the content horizontally */
+}
+
+.user-journey-image-container {
+  width: 100%; /* Take up the full width of the section */
+  max-width: 800px; /* Or whatever maximum width you want */
+  margin-bottom: 1rem;
+}
+
+.user-journey-image {
+  width: 100%; /* Make the image responsive */
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.user-journey-image:hover {
+  transform: scale(2.4); /* Slight zoom on hover */
+}
+
